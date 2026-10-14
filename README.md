@@ -30,4 +30,4 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ## Deployment
 
-The project is ready to deploy on Vercel or another Next.js host. Add the deployed URL here after deployment.
+Live application: [https://flintzy-social-media-scheduler-adna-six.vercel.app/](https://flintzy-social-media-scheduler-adna-six.vercel.app/)
