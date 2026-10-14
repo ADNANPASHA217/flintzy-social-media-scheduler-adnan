@@ -27,7 +27,7 @@
       "instagram"
     ],
     "mediaUrl": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=900&q=80",
-    "scheduledAt": "2026-10-14T19:15:00.000Z",
+    "scheduledAt": "2026-10-14T02:30:00.000Z",
     "status": "failed",
     "errorMessage": "The video format could not be processed. Try uploading an MP4."
   },
@@ -58,7 +58,7 @@
       "x",
       "facebook"
     ],
-    "scheduledAt": "2026-10-15T12:00:00.000Z",
+    "scheduledAt": "2026-10-14T00:30:00.000Z",
     "status": "published"
   },
   {
@@ -97,7 +97,7 @@
       "tiktok",
       "instagram"
     ],
-    "scheduledAt": "2026-10-16T14:30:00.000Z",
+    "scheduledAt": "2026-10-14T03:30:00.000Z",
     "status": "failed",
     "errorMessage": "The connected account needs attention before publishing."
   },
@@ -167,7 +167,7 @@
     "platforms": [
       "facebook"
     ],
-    "scheduledAt": "2026-10-20T09:00:00.000Z",
+    "scheduledAt": "2026-10-14T01:30:00.000Z",
     "status": "published"
   },
   {
@@ -206,7 +206,7 @@
       "instagram",
       "x"
     ],
-    "scheduledAt": "2026-10-21T12:30:00.000Z",
+    "scheduledAt": "2026-10-14T04:30:00.000Z",
     "status": "failed",
     "errorMessage": "Publishing timed out. Your post is safe to retry."
   },
